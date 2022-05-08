@@ -1,0 +1,15 @@
+.footer-link-new {
+    text-decoration: none;
+    
+    display: block;
+    margin-top: 25px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    opacity: .8;
+    -webkit-transition: color 250ms ease-in-out;
+    transition: color 250ms ease-in-out;
+    color: #bfbfbf;
+    line-height: 16px;
+    font-weight: 500;
+    
+}
