@@ -64,15 +64,7 @@ class Footer extends Component {
                     style={{ styletransform }}
                   ></div>
                 </div>
-                <div class="footer-nav-link-line">
-                  <a href="#Testimonials" class="footer-link-new" id="clear">
-                    Testimonials
-                  </a>
-                  <div
-                    class="footer-hover-line"
-                    style={{ styletransform }}
-                  ></div>
-                </div>
+               
                 <div class="footer-nav-link-line">
                   <a href="#FAQs" class="footer-link-new w--current">
                     FAQs
@@ -86,40 +78,7 @@ class Footer extends Component {
               <div
                 // id="w-node-e8d13286-4f22-98bd-8338-9e174ec1fd76-4ec1fd5a"
                 class="block-footer"
-              >
-                <h5 class="footer-title">Template Info</h5>
-                <div class="footer-nav-link-line">
-                  <a href="/tamplate-info/changelog" class="footer-link-new" id="clear">
-                    Changelog
-                  </a>
-                  <div
-                    class="footer-hover-line"
-                    style={{ styletransform }}
-                  ></div>
-                </div>
-                <div class="footer-nav-link-line">
-                  <a href="/tamplate-info/licensing" class="footer-link-new" id="clear">
-                    Licenses
-                  </a>
-                  <div
-                    class="footer-hover-line"
-                    style={{ styletransform }}
-                  ></div>
-                </div>
-                <div class="footer-nav-link-line">
-                  <a href="/tamplate-info/style-guide" class="footer-link-new" id="clear" >
-                    Style Guide
-                  </a>
-                  <div
-                    class="footer-hover-line"
-                    style={{ styletransform }}
-                  ></div>
-                </div>
-              </div>
-              <div
-                //      id="w-node-_0e10e707-3e4a-7fa2-a49b-c9060eefa64a-4ec1fd5a"
-                class="block-footer"
-              >
+              >   
                 <h5 class="footer-title">Legal</h5>
                 <div class="footer-nav-link-line">
                   <a href="/terms-conditions" class="footer-link-new" id="clear">
@@ -147,13 +106,8 @@ class Footer extends Component {
               class="bottom-footer"
               style={{ opacity: 1 }}
             >
-              <div class="text-block">© Banky. All rights reserved</div>
-              <div class="powered">
-                Powered by{" "}
-                <a href="https://webflow.com/" target="_blank" class="webflow">
-                  Webflow
-                </a>
-              </div>
+              <div class="text-block">© Purscliq. All rights reserved</div>
+             
             </div>
           </div>
         </div>

@@ -28,7 +28,7 @@ class Header extends Component {
             aria-label="home"
           >
             <img
-              src="https://assets.website-files.com/6115ba6494f278764d0490f1/61165ea487dc1067dfcd2af9_Banky%20Logo.svg"
+              src="https://creditwolfinc.com/wp-content/uploads/2021/08/LOGO-3-red-coin.png"
               width="91"
               alt=""
               class="brand"
@@ -44,31 +44,19 @@ class Header extends Component {
              href="#Features" 
              class="nav-link w-nav-link">
               Features
-            </a>
-            <a
-             href="#Testimonials"
-              class="nav-link w-nav-link w--current">
-              Testimonials
-            </a>
+            </a>        
             <a 
             href="#FAQs"
              class="nav-link w-nav-link">
               FAQs
             </a>
-          </nav>
-          <div class="link-arrow nav">
             <a
-             href="#"
-              class="link-button w-button">
-              Buy Template
+             href="#Testimonials"
+              class="nav-link w-nav-link w--current">
+              Login
             </a>
-            <img
-              src="https://assets.website-files.com/6115ba6494f278764d0490f1/61165ea44949516b538c5659_Arrow%20Icon.png"
-              loading="lazy"
-              alt=""
-              class="arrow"
-            />
-          </div>
+          </nav>
+        
           <div
             class="menu-button w-nav-button"
             style={{"-webkit-user-select": "text"}}

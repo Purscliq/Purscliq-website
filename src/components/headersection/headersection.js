@@ -14,8 +14,8 @@ class Headersection extends Component {
               Manage Your Finances <span class="hero-text-span">Easily</span>
             </h1>
             <div class="hero-text">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              quis sapien quis turpis laoreet.
+            Reforming the standards of the fintech industry and
+             providing top-notch financial services one transaction at a time.
             </div>
             <div class="hero-buttons-grid">
               <a
@@ -25,17 +25,14 @@ class Headersection extends Component {
               >
                 Download App
               </a>
-              <div class="link-arrow">
-                <a href="#" class="link-button w-button">
-                  Buy Template
-                </a>
-                <img
-                  src="https://assets.website-files.com/6115ba6494f278764d0490f1/61165ea44949516b538c5659_Arrow%20Icon.png"
-                  loading="lazy"
-                  alt=""
-                  class="arrow"
-                />
-              </div>
+              <a
+                href="https://webflow.com/templates/designers/milos-knezevic"
+                target="_blank"
+                class="primary-button w-button"
+              >
+                Download App
+              </a>
+             
             </div>
           </div>
           <img

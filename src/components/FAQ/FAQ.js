@@ -29,7 +29,7 @@ class Faq extends Component {
             <div class="column-faq-left w-col w-col-6 w-col-stack">
               <div class="block-faqs-bg">
                 <div class="faqs-title">
-                  <h4 class="faqs-heading">Is Banky Free App?</h4>
+                  <h4 class="faqs-heading">Is Purscliq Free App?</h4>
                   {/* <div class="faqs-arrow-bg">
                     <div class="faqs-arrow w-icon-slider-right"></div>
                   </div> */}
@@ -40,8 +40,8 @@ class Faq extends Component {
                 >
                   <div class="space"></div>
                   <p class="faqs-paragraph">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Aliquam a lacinia lacus, et congue ipsum.
+                  CreditWolf is a product of Voltwolf Limited and a digital bank that provides you with a single app that takes care of all your financial needs at your fingertip. We provide investment and savings plans with terrific interest rates, payment and lending services at pocket-friendly rates.
+
                   </p>
                 </div>
               </div>
@@ -66,7 +66,7 @@ class Faq extends Component {
               </div>
               <div class="block-faqs-bg">
                 <div class="faqs-title">
-                  <h4 class="faqs-heading">Is Banky App safe for use?</h4>
+                  <h4 class="faqs-heading">Is Purscliq App safe for use?</h4>
                   {/* <div class="faqs-arrow-bg">
                     <div class="faqs-arrow w-icon-slider-right"></div>
                   </div> */}
