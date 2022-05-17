@@ -24,7 +24,7 @@ class HowitWorks extends Component {
               style={{opacity: 1}}
             >
               <h4 class="card-title">
-                All <strong>Cards</strong>
+                Virtual <strong>Cards</strong>
               </h4>
               <div class="image-bg">
                 <img
