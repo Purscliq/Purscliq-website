@@ -16,14 +16,13 @@ class secondSection extends Component {
            style={{opacity: 1}}
            >
             <h2 class="section-title">
-              Made For Easy To Use. <span class="text-span">Template</span>
+            The future is digital. Do not let your finances be left behind. 
             </h2>
             <div class="section-text">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              quis sapien quis.
+            Purscliq is reforming the standards of the fintech industry and providing top-notch financial services one transaction at a time.
             </div>
             <a href="#" class="primary-button w-button">
-              Buy Template
+            DOWNLOAD APP
             </a>
           </div>
         </div>

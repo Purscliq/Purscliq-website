@@ -29,7 +29,7 @@ class Faq extends Component {
             <div class="column-faq-left w-col w-col-6 w-col-stack">
               <div class="block-faqs-bg">
                 <div class="faqs-title">
-                  <h4 class="faqs-heading">Is Purscliq Free App?</h4>
+                  <h4 class="faqs-heading">What is Purscliq?</h4>
                   {/* <div class="faqs-arrow-bg">
                     <div class="faqs-arrow w-icon-slider-right"></div>
                   </div> */}
@@ -40,14 +40,17 @@ class Faq extends Component {
                 >
                   <div class="space"></div>
                   <p class="faqs-paragraph">
-                  CreditWolf is a product of Voltwolf Limited and a digital bank that provides you with a single app that takes care of all your financial needs at your fingertip. We provide investment and savings plans with terrific interest rates, payment and lending services at pocket-friendly rates.
+                  Purscliq is a product of Volt Wolf Limited. It is a mobile app that takes care 
+                  of all your financial needs. Our services include cross-border payments, 
+                  bill payment, fund transfer, savings products with terrific interest rates 
+                  and employee loans at pocket-friendly rates.
 
                   </p>
                 </div>
               </div>
               <div class="block-faqs-bg">
                 <div class="faqs-title">
-                  <h4 class="faqs-heading">What if i Have more questions?</h4>
+                  <h4 class="faqs-heading">How do I access the services of Purscliq?</h4>
                   {/* <div class="faqs-arrow-bg">
                     <div class="faqs-arrow w-icon-slider-right"></div>
                   </div> */}
@@ -58,15 +61,15 @@ class Faq extends Component {
                 >
                   <div class="space"></div>
                   <p class="faqs-paragraph">
-                    Donec ac maximus eros. Vestibulum ante ipsum primis in
-                    faucibus orci luctus et ultrices posuere cubilia curae; Sed
-                    urna erat, iaculis quis sem non, suscipit ultricies enim.
+                  With your smartphone, download the Purscliq app from Google Play or App Store. 
+                  You can also go to www.purscliq.com on your laptop or smartphone to sign up for 
+                  our array of services.
                   </p>
                 </div>
               </div>
               <div class="block-faqs-bg">
                 <div class="faqs-title">
-                  <h4 class="faqs-heading">Is Purscliq App safe for use?</h4>
+                  <h4 class="faqs-heading">Why is my BVN required?</h4>
                   {/* <div class="faqs-arrow-bg">
                     <div class="faqs-arrow w-icon-slider-right"></div>
                   </div> */}
@@ -77,9 +80,7 @@ class Faq extends Component {
                 >
                   <div class="space"></div>
                   <p class="faqs-paragraph">
-                    Donec ac maximus eros. Vestibulum ante ipsum primis in
-                    faucibus orci luctus et ultrices posuere cubilia curae; Sed
-                    urna erat, iaculis quis sem non, suscipit ultricies enim.
+                  Your BVN is used to verify the information you provided upon registration.
                   </p>
                 </div>
               </div>
@@ -88,7 +89,7 @@ class Faq extends Component {
               <div class="block-faqs-bg">
                 <div class="faqs-title">
                   <h4 class="faqs-heading">
-                    What is the money back guarantee?
+                  How am I sure my money is safe with Purscliq?
                   </h4>
                   {/* <div class="faqs-arrow-bg">
                     <div class="faqs-arrow w-icon-slider-right"></div>
@@ -100,15 +101,14 @@ class Faq extends Component {
                 >
                   <div class="space"></div>
                   <p class="faqs-paragraph">
-                    Phasellus porta porta consequat. Curabitur auctor commodo
-                    sapien at rhoncus.
+                  All funds are insured with NDIC.
                   </p>
                 </div>
               </div>
               <div class="block-faqs-bg">
                 <div class="faqs-title">
                   <h4 class="faqs-heading">
-                    How much Credit Cards i can connect?
+                  What do I do if my account is blocked?
                   </h4>
                   {/* <div class="faqs-arrow-bg">
                     <div class="faqs-arrow w-icon-slider-right"></div>
@@ -120,15 +120,13 @@ class Faq extends Component {
                 >
                   <div class="space"></div>
                   <p class="faqs-paragraph">
-                    Nam neque odio, feugiat nec aliquam nec, congue sit amet
-                    metus. Donec nibh lacus, tincidunt nec est id, blandit
-                    finibus ex.
+                  Inform us immediately you notice. We will take a look and revert in 24-48 hours.
                   </p>
                 </div>
               </div>
               <div class="block-faqs-bg">
                 <div class="faqs-title">
-                  <h4 class="faqs-heading">What if i Have more questions?</h4>
+                  <h4 class="faqs-heading">Where is Purscliq located?</h4>
                   {/* <div class="faqs-arrow-bg">
                     <div class="faqs-arrow w-icon-slider-right"></div>
                   </div> */}
@@ -139,9 +137,7 @@ class Faq extends Component {
                 >
                   <div class="space"></div>
                   <p class="faqs-paragraph">
-                    Nam neque odio, feugiat nec aliquam nec, congue sit amet
-                    metus. Donec nibh lacus, tincidunt nec est id, blandit
-                    finibus ex.
+                  We are headquartered at 19 Oseni Close, off Adeniran Ogunsanya, Surulere, Lagos.
                   </p>
                 </div>
               </div>

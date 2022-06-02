@@ -11,11 +11,10 @@ class Headersection extends Component {
             class="hero-content landing"
           >
             <h1 class="hero-title">
-              Manage Your Finances <span class="hero-text-span">Easily</span>
+              Your one-stop solution for Financial Services
             </h1>
             <div class="hero-text">
-            Reforming the standards of the fintech industry and
-             providing top-notch financial services one transaction at a time.
+            From cross-border payments to target savings, we’ve got you covered
             </div>
             <div class="hero-buttons-grid">
               <a
@@ -25,13 +24,7 @@ class Headersection extends Component {
               >
                 Download App
               </a>
-              <a
-                href="https://webflow.com/templates/designers/milos-knezevic"
-                target="_blank"
-                class="primary-button w-button"
-              >
-                Download App
-              </a>
+        
              
             </div>
           </div>

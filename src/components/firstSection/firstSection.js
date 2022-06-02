@@ -9,15 +9,12 @@ class firstSection extends Component {
           style={{opacity: 1}}
           >
             <h2 class="section-title">
-              Made For Easy To Use. <span class="text-span">Template</span>
+            Download the Purscliq app from Google Play or App Store today.
             </h2>
             <div class="section-text">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              quis sapien quis.
+            Sign up, verify your account by uploading the required information, get your CLIQ ID and fund your wallet to start making transactions instantly.
             </div>
-            <a href="#" class="primary-button w-button">
-              Buy Template
-            </a>
+          
           </div>
           <img
             src="https://assets.website-files.com/6115ba6494f278764d0490f1/61165ea5f7fb45162eb9ad43_Feature%20Phone%202.png"

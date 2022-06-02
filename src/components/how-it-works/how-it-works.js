@@ -11,7 +11,7 @@ class HowitWorks extends Component {
       <div id="How-It-Works" class="section wf-section">
         <div class="block-content top-bot-margin">
           <h2 class="section-title">
-            How It <span class="text-span">Works</span>
+          WHY YOU SHOULD CHOOSE  <span class="text-span">Purscliq</span>
           </h2>
           <div
            data-w-id="b00dccc6-95cd-29ed-ff75-8aeb39b7efa8"
@@ -37,8 +37,9 @@ class HowitWorks extends Component {
                 <div class="circle-bg"></div>
               </div>
               <p class="card-paragraph">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-                quis sapien quis.
+              With our state-of-the-art technology, you can make cross-border payments to 
+              international merchants in a few simple steps. This is a new and easy way to 
+              spend with no hidden charges.
               </p>
             </div>
             <div class="vertical-divider"></div>
@@ -83,8 +84,9 @@ class HowitWorks extends Component {
                 <div class="circle-bg"></div>
               </div>
               <p class="card-paragraph">
-                Sed blandit, tellus ac sagittis tempus, eros mauris porttitor
-                nibh, et elementum metus.
+              Start saving smartly with our savings products – FlexiSave, Target Savings
+               and Fixed Deposit Savings. You can choose your minimum timeframe and get up
+                to 14% per annum on amount saved. With Purscliq, you can surpass your savings goals.
               </p>
             </div>
             <div class="vertical-divider"></div>
@@ -93,7 +95,7 @@ class HowitWorks extends Component {
               style={{styles}}
             >
               <h4 class="card-title">
-                100% <strong>Secure</strong>
+              <strong>SECURITY</strong>
               </h4>
               <div class="image-bg">
                 <img
@@ -106,8 +108,7 @@ class HowitWorks extends Component {
                 <div class="circle-bg"></div>
               </div>
               <p class="card-paragraph">
-                Sed blandit, tellus ac sagittis tempus, eros mauris porttitor
-                nibh, et elementum metus.
+              We use the latest security solutions to spot, fix and prevent vulnerabilities because we understand the trust you have in us.
               </p>
             </div>
           </div>

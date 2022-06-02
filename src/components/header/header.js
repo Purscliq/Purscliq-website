@@ -28,8 +28,8 @@ class Header extends Component {
             aria-label="home"
           >
             <img
-              src="https://creditwolfinc.com/wp-content/uploads/2021/08/LOGO-3-red-coin.png"
-              width="91"
+              src="https://creditwolfinc.com/wp-content/uploads/2021/08/purscliq_dark01.png"
+              width="100"
               alt=""
               class="brand"
             />
@@ -50,11 +50,7 @@ class Header extends Component {
              class="nav-link w-nav-link">
               FAQs
             </a>
-            <a
-             href="#Testimonials"
-              class="nav-link w-nav-link w--current">
-              Login
-            </a>
+            
           </nav>
         
           <div

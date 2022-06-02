@@ -26,9 +26,9 @@ class Footer extends Component {
                     class="footer-brand w-inline-block w--current"
                   >
                     <img
-                      src="https://assets.website-files.com/6115ba6494f278764d0490f1/61165ea487dc1067dfcd2af9_Banky%20Logo.svg"
-                      width="98"
-                      height="29"
+                      src="https://creditwolfinc.com/wp-content/uploads/2021/09/purscliq_dark.png"
+                      width="178"
+                      height="40"
                       alt=""
                       class="logo"
                     />
