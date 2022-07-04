@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import LandingPage from "./LandingPage";
 import PrivacyPolicy from "./components/privacypolicy/PrivacyPolicy";
-import Terms from "./components/Terms&Conditions/Terms&Conditions";
+import TermsConditions from "./components/Terms&Conditions/Terms&Conditions";
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
       <Routes>
         <Route index element={<LandingPage />} />
         <Route path="/privacy-policy" element={<PrivacyPolicy />} />
-        <Route path="terms-conditions" element={<Terms />} />
+        <Route path="terms-conditions" element={<TermsConditions />} />
       </Routes>
     </BrowserRouter>
   );

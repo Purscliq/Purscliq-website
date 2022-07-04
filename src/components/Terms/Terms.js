@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class Policy extends Component {
+class Terms extends Component {
   render() {
     const styles = {
       display: "none",
@@ -17,9 +17,9 @@ class Policy extends Component {
       <div id="FAQs" class="section wf-section">
         <div class="block-content top-bot-margin">
           <h2 class="section-title">
-            <strong>Privacy</strong>{" "}
+            <strong>Terms & </strong>{" "}
             <span class="text-span">
-              <strong>Policy</strong>
+              <strong>Conditions</strong>
             </span>
           </h2>
           <div
@@ -30,7 +30,7 @@ class Policy extends Component {
             <div class="column-faq-left w-col w-col-6 w-col-stack">
               <div class="block-faqs-bg">
                 <div class="faqs-title">
-                  <h4 class="faqs-heading">Privacy Policy for Purscliq</h4>
+                  <h4 class="faqs-heading">INTRODUCTION</h4>
                   {/* <div class="faqs-arrow-bg">
                     <div class="faqs-arrow w-icon-slider-right"></div>
                   </div> */}
@@ -38,43 +38,87 @@ class Policy extends Component {
                 <div class="faqs-content" style={{ styles }}>
                   <div class="space"></div>
                   <p class="faqs-paragraph">
-                    The Purscliq platform, accessible via{" "}
-                    <a href="https://www.purscliq.com">www.purscliq.com</a>, one
-                    of our main priorities is the privacy of our visitors. This
-                    Privacy Policy document contains types of information that
-                    is collected and recorded by Purscliq and how we use it. If
-                    you have additional questions or require more information
-                    about our Privacy Policy, do not hesitate to contact us at
-                    help@purscliq.com This Privacy Policy applies only to our
-                    online activities and is valid for visitors to our website
-                    with regards to the information that they shared and/or
-                    collect in Purscliq. Purscliq does not knowingly collect or
-                    solicit Personal Data from anyone under the age of 18 or
-                    knowingly allow such persons to register. If you are under
-                    18, please do not attempt to register for the Site or send
-                    any data about yourself to us. In the event that we learn
-                    that we have collected personal data from a child under age
-                    18 without verification of parental consent, we will delete
-                    that data as quickly as possible. If you believe that we
-                    might have any information from a person under 18, please
-                    contact us at help@purscliq.com
+                    <strong
+                      style={{
+                        margin: "0px 0px 0px -15%"
+                      }}
+                    >
+                      Welcome to Volt Wolf Limited (“Volt Wolf”, “Company”,
+                      “we”, “our”, “us”)!
+                    </strong>
+                    <div class="space"></div>
+                    <span
+                      style={{
+                        margin: "0px 0px 0px 5%"
+                      }}
+                    >
+                      These Terms of Service (“Terms”, “Terms of Service”,
+                      “Terms of Use”, “Terms and Conditions”, “Agreement”)
+                      govern all users of our Platform “Purscliq.” (“Purscliq”,
+                      together or individually “Service”, “Platform”) operated
+                      by Volt Wolf Limited. When you (“you”, “your”,
+                      “client(s)”, “customer(s)”, “user(s)”) open an account
+                      with us, you are setting up an Agreement. This Agreement
+                      is a legally binding between you and Volt Wolf Limited (or
+                      any other company we transfer it to) governing your
+                      non-transferable (unless with our prior written consent)
+                      use of the Purscliq App, Purscliq website, and any
+                      features and products that we may make available to you
+                      through the Purscliq application or website. You must
+                      carefully read and understand the Terms and Conditions set
+                      out in this before using a service provided by or
+                      affiliated with Volt Wolf Limited.
+                    </span>
                   </p>
                 </div>
               </div>
               <div class="block-faqs-bg">
                 <div class="faqs-title">
-                  <h4 class="faqs-heading">Consent</h4>
-                  {/* <div class="faqs-arrow-bg">
-                    <div class="faqs-arrow w-icon-slider-right"></div>
-                  </div> */}
+                  <strong
+                    style={{
+                      margin: "0px 0px 0px 0%"
+                    }}
+                  >
+                    Definitions
+                  </strong>
                 </div>
                 <div class="faqs-content" style={{ styles }}>
                   <div class="space"></div>
                   <p class="faqs-paragraph">
-                    By using our website, you hereby consent to be bound by this
-                    Privacy Policy and agree to its terms. If you do not agree
-                    to this privacy policy, please, do not use our website or
-                    platform
+                    <span>
+                      For the purposes of these Terms and Conditions, unless the
+                      context requires otherwise:
+                    </span>
+                    <div
+                      style={{
+                        width: "100%",
+                        display: "flex",
+                        flexDirection: "column",
+                        alignItems: "flex-start"
+                      }}
+                    >
+                      <span>
+                        Account means your registered mobile account with us.
+                      </span>
+                      <span>Agreement means this Agreement.</span>
+                      <span>CBN means the Central Bank of Nigeria.</span>
+                      <span>
+                        Credit means the movement of funds into an Account or
+                        Wallet.
+                      </span>
+                      <span style={{
+                        marginLeft: "-4%"
+                      }}>
+                        Credit Bureau includes any financial institution or a
+                        credit reference bureau duly licensed under the laws and
+                        regulations of the Federal republic of Nigeria to,
+                        collect - from a wide variety of financial and
+                        nonfinancial entities - and facilitate the sharing of
+                        customer credit information to provide information to
+                        creditors and lenders to make important lending
+                        decisions.
+                      </span>
+                    </div>
                   </p>
                 </div>
               </div>
@@ -370,4 +414,4 @@ class Policy extends Component {
     );
   }
 }
-export default Policy;
+export default Terms;
