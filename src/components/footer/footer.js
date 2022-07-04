@@ -127,6 +127,9 @@ class Footer extends Component {
               style={{ opacity: 1 }}
             >
               <div class="text-block">© Purscliq. All rights reserved</div>
+              <div class="text-block">
+                19 Oseni Close, off Adeniran Ogunsanya, Surulere, Lagos
+              </div>
             </div>
           </div>
         </div>
