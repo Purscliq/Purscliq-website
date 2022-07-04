@@ -38,10 +38,10 @@ class Terms extends Component {
                 <div class="faqs-content" style={{ styles }}>
                   <div class="space"></div>
                   <p class="faqs-paragraph">
-                    <strong>
+                    <span>
                       Welcome to Volt Wolf Limited (“Volt Wolf”, “Company”,
                       “we”, “our”, “us”)!
-                    </strong>
+                    </span>
                     <div class="space"></div>
                     <span
                       style={{
