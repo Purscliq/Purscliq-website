@@ -34,6 +34,22 @@ class Footer extends Component {
                     />
                   </a>
                 </div>
+                <a
+                  href="https://wwww.info@purscliq.com"
+                  aria-current="page"
+                  class="footer-link-new"
+                  id="clear"
+                >
+                  info@Purscliq.com
+                </a>
+                <a
+                  href="https://www.help@purscliq.com"
+                  aria-current="page"
+                  class="footer-link-new"
+                  id="clear"
+                >
+                  help@Purscliq.com
+                </a>
               </div>
               <div
                 //   id="w-node-e8d13286-4f22-98bd-8338-9e174ec1fd61-4ec1fd5a"
