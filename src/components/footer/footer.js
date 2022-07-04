@@ -4,7 +4,7 @@ class Footer extends Component {
   render() {
     const styletransform = {
       transform:
-        "translate3d(0px, 0px, 0px) scale3d(0, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)",
+        "translate3d(0px, 0px, 0px) scale3d(0, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)"
     };
     return (
       <div>
@@ -47,7 +47,7 @@ class Footer extends Component {
                   ></div>
                 </div>
                 <div class="footer-nav-link-line">
-                  <a href="#How-It-Works" class="footer-link-new" id="clear" >
+                  <a href="/" class="footer-link-new" id="clear">
                     How It Works
                   </a>
                   <div
@@ -56,7 +56,7 @@ class Footer extends Component {
                   ></div>
                 </div>
                 <div class="footer-nav-link-line">
-                  <a href="#Features" class="footer-link-new" id="clear">
+                  <a href="/" class="footer-link-new" id="clear">
                     Features
                   </a>
                   <div
@@ -64,9 +64,9 @@ class Footer extends Component {
                     style={{ styletransform }}
                   ></div>
                 </div>
-               
+
                 <div class="footer-nav-link-line">
-                  <a href="#FAQs" class="footer-link-new w--current">
+                  <a href="/" class="footer-link-new w--current">
                     FAQs
                   </a>
                   <div
@@ -78,10 +78,14 @@ class Footer extends Component {
               <div
                 // id="w-node-e8d13286-4f22-98bd-8338-9e174ec1fd76-4ec1fd5a"
                 class="block-footer"
-              >   
+              >
                 <h5 class="footer-title">Legal</h5>
                 <div class="footer-nav-link-line">
-                  <a href="/terms-conditions" class="footer-link-new" id="clear">
+                  <a
+                    href="/terms-conditions"
+                    class="footer-link-new"
+                    id="clear"
+                  >
                     Terms &amp; Conditions
                   </a>
                   <div
@@ -107,7 +111,6 @@ class Footer extends Component {
               style={{ opacity: 1 }}
             >
               <div class="text-block">© Purscliq. All rights reserved</div>
-             
             </div>
           </div>
         </div>
