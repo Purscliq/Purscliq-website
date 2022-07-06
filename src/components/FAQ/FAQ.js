@@ -40,7 +40,7 @@ class Faq extends Component {
                 >
                   <div class="space"></div>
                   <p class="faqs-paragraph">
-                  Purscliq is a product of Volt Wolf Limited. It is a mobile app that takes care 
+                  Purscliq is a mobile app that takes care 
                   of all your financial needs. Our services include cross-border payments, 
                   bill payment, fund transfer, savings products with terrific interest rates 
                   and employee loans at pocket-friendly rates.
@@ -137,7 +137,7 @@ class Faq extends Component {
                 >
                   <div class="space"></div>
                   <p class="faqs-paragraph">
-                  We are headquartered at 19 Oseni Close, off Adeniran Ogunsanya, Surulere, Lagos.
+                 
                   </p>
                 </div>
               </div>
