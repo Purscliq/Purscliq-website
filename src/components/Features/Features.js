@@ -140,8 +140,7 @@ class Feature extends Component {
                 />
               </div>
               <div class="feature-name-text">
-                <h4 class="feature-title-small">QUICK ONBOARDING
-</h4>
+                <h4 class="feature-title-small">Quick Onboarding
                 <p class="feature-text-small">
                 Set up your Purscliq account in a few minutes by filling in personal information once you download it from Google Play or App Store.
                 </p>
