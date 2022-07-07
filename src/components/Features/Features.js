@@ -127,6 +127,26 @@ class Feature extends Component {
                 </p>
               </div>
             </div>
+            <div
+              id="w-node-_669f7f51-3ac3-6ddc-2e69-1b5af062bba4-f40490f2"
+              class="feature-block"
+            >
+              <div class="icon-bg-circle">
+                <img
+                  src="https://assets.website-files.com/6115ba6494f278764d0490f1/61165ea5cdb048de2d833540_icons8-customer-support-96%201.png"
+                  loading="lazy"
+                  alt=""
+                  class="feature-icon"
+                />
+              </div>
+              <div class="feature-name-text">
+                <h4 class="feature-title-small">QUICK ONBOARDING
+</h4>
+                <p class="feature-text-small">
+                Set up your Purscliq account in a few minutes by filling in personal information once you download it from Google Play or App Store.
+                </p>
+              </div>
+            </div>
           </div>
         </div>
         <div class="features-bg">
