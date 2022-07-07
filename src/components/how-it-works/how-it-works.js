@@ -46,7 +46,7 @@ class HowitWorks extends Component {
             <div class="vertical-divider"></div>
             <div class="card-block" style={{ styles }}>
               <h4 class="card-title">
-                Employee <strong> LOANS</strong>
+                Employee <strong> Loans</strong>
               </h4>
               <div class="image-bg">
                 <img

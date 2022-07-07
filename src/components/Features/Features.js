@@ -38,7 +38,7 @@ class Feature extends Component {
                 />
               </div>
               <div class="feature-name-text">
-                <h4 class="feature-title-small">MULTIFACETED </h4>
+                <h4 class="feature-title-small">Multifaceted </h4>
                 <p class="feature-text-small">
                   With no other mobile apps or digital wallets offering our
                   myriad of services in one application, why haven’t you signed
@@ -59,7 +59,7 @@ class Feature extends Component {
                 />
               </div>
               <div class="feature-name-text">
-                <h4 class="feature-title-small">SUPPORT</h4>
+                <h4 class="feature-title-small">Support</h4>
                 <p class="feature-text-small">
                   We provide you with premium customer service every step of the
                   way to ensure your Purscliq is seamless
@@ -79,7 +79,7 @@ class Feature extends Component {
                 />
               </div>
               <div class="feature-name-text">
-                <h4 class="feature-title-small">CONVENIENCE</h4>
+                <h4 class="feature-title-small">Convenience</h4>
                 <p class="feature-text-small">
                   From the ease of your mobile phone, you have remote access to
                   all our services anytime, anywhere.
@@ -120,7 +120,7 @@ class Feature extends Component {
                 />
               </div>
               <div class="feature-name-text">
-                <h4 class="feature-title-small">FAST AND AFFORDABLE</h4>
+                <h4 class="feature-title-small">Fast and Affordable</h4>
                 <p class="feature-text-small">
                   Enjoy all our services, even internationally, without hidden
                   charges in a few simple steps.

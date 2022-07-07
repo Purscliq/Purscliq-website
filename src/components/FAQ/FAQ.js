@@ -126,7 +126,7 @@ class Faq extends Component {
               </div>
               <div class="block-faqs-bg">
                 <div class="faqs-title">
-                  <h4 class="faqs-heading">Where is Purscliq located?</h4>
+                  <h4 class="faqs-heading">How long does the registration process take?</h4>
                   {/* <div class="faqs-arrow-bg">
                     <div class="faqs-arrow w-icon-slider-right"></div>
                   </div> */}
@@ -137,7 +137,8 @@ class Faq extends Component {
                 >
                   <div class="space"></div>
                   <p class="faqs-paragraph">
-                 
+                  Our registration process only takes a few minutes to be completed.
+
                   </p>
                 </div>
               </div>
